@@ -32,7 +32,7 @@ that scale with business needs.
 ## 🛠️ Tech Stack
 
 ### **Frontend**
-- **Angular (5 → 17)**, Angular Material  
+- **Angular (5 → 19)**, Angular Material  
 - **React, Next.js**, Zustand, Chakra UI, Radix UI  
 - TypeScript, JavaScript (ES6+), HTML5, CSS3, TailwindCSS, Sass  
 - Responsive & Accessible Design (WCAG), D3Charts  
