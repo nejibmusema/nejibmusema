@@ -58,15 +58,20 @@ that scale with business needs.
 
 ## 🧩 Highlighted Experience
 
-### **Senior Frontend Engineer — Banque Misr (Fintech)**
-- Architected & developed a payment orchestration platform using **Angular 17 + Tailwind + Nx**
-- Reduced merchant integration time by **35%**
-- Implemented tokenization, encryption & PCI DSS–aligned secure flows
+### Senior Frontend Engineer — Banque Misr *(Fintech)*
 
-### **Senior Frontend Engineer — Melita (Telecom, Malta)**
-- Built customer-facing apps (MyMelita, Melita IoT) using **React + Next.js**
-- Migrated legacy apps from AngularJS → Angular 17
-- Developed an **AI chatbot** with OpenAI APIs improving customer self-service
+- Architected and developed a high-performance payment orchestration platform using **Next.js**, **React**, **Tailwind CSS**, and **Nx**.
+- Leveraged **GitHub Copilot** for AI-assisted pair programming to accelerate feature delivery and improve code quality.
+- Reduced merchant integration time by **35%** by enabling a seamless single integration point for multiple payment providers.
+- Implemented **tokenization**, **encryption**, and secure frontend architecture to support strict **PCI DSS compliance**.
+
+---
+
+### Senior Frontend Engineer — Melita *(Telecom, Malta)*
+
+- Built customer-facing applications including **MyMelita** and **Melita IoT** using **React**, **Next.js**, **Chakra UI**, and **Zustand**.
+- Migrated legacy applications from **AngularJS** to **Angular 17**, improving page load performance by **30%**.
+- Developed and integrated an **AI-powered chatbot** using **OpenAI APIs** to streamline customer billing and service workflows.
 
 ### **Frontend Lead — Standard Chartered Venture (Tawi Marketplace)**
 - Built UI components for Africa’s digital agri-marketplace  
