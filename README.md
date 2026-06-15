@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nejib 👋</h1>
-<h3 align="center">Senior Frontend Engineer | Angular • React • Next.js</h3>
+<h3 align="center">Senior Software Engineer | Angular • React • Next.js</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nejib-musema">LinkedIn</a> •
